@@ -231,6 +231,8 @@ export default {
       submit,
       modifiedSlot,
       onSubmit,
+      stripe,
+      element
     };
   },
   render () {
